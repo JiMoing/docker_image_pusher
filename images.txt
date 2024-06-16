@@ -1,1 +1,2 @@
-redis:6.2.14-alpine3.20
+redis:7.2.5
+mysql:8.4.0
