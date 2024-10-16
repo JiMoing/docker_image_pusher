@@ -1,2 +1,1 @@
-stilleshan/frps:0.60.0
-stilleshan/frpc:0.60.0
+mysql:8.4.3
