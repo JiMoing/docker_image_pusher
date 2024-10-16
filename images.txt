@@ -6,10 +6,10 @@ postgres:16.4
 postgres:16.4-alpine
 redis:7.4.1
 redis:7.4.1-alpine
+zerotier/zerotier:1.14.1
+xubiaolin/zerotier-planet:1.14.1
+rustdesk/rustdesk-server:1.1.12
 rabbitmq:3.13.7-management
 rabbitmq:3.13.7-management-alpine
 rabbitmq:4.0.2-management
 rabbitmq:4.0.2-management-alpine
-zerotier/zerotier:1.14.1
-xubiaolin/zerotier-planet:1.14.1
-rustdesk/rustdesk-server:1.1.12
