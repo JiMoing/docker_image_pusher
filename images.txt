@@ -1,2 +1,1 @@
-rabbitmq:3.13.3-management
-rabbitmq:3.13.3-management-alpine
+postgres:17.4-alpine
