@@ -1,3 +1,5 @@
+postgres:17.4
+postgres:17.4-alpine
 zerotier/zerotier:1.14.2
 xubiaolin/zerotier-planet:1.14.2
 rustdesk/rustdesk-server:1.1.14
