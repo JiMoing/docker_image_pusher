@@ -1,15 +1,2 @@
-postgres:17.4
-postgres:17.4-alpine
-zerotier/zerotier:1.14.2
-xubiaolin/zerotier-planet:1.14.2
-rustdesk/rustdesk-server:1.1.14
-redis:7.4.2-alpine
-redis:7.4.2
-mysql:8.4.4
-rabbitmq:4.0.6-management-alpine
-rabbitmq:4.0.6-management
-rabbitmq:3.13.7-management-alpine
-rabbitmq:3.13.7-management
-snowdreamtech/frps:0.61.1-alpine
-snowdreamtech/frpc:0.61.1-alpine
-antonyleons/ward:2.5.3
+snowdreamtech/frps:0.61.1
+snowdreamtech/frpc:0.61.1
