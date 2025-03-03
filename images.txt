@@ -1,2 +1,1 @@
-snowdreamtech/frps:0.61.1
-snowdreamtech/frpc:0.61.1
+ollama/ollama:0.5.13-rc5
