@@ -1,1 +1,1 @@
-infiniflow/ragflow:v0.17.0
+universonic/stable-diffusion-webui:nightly-20250311031136-full
