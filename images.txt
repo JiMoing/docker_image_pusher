@@ -1,2 +1,8 @@
-runpod/stable-diffusion:comfy-ui-6.0.0
-universonic/stable-diffusion-webui:nightly-20250330031813-full
+redis:8.0.0-alpine
+redis:8.0.0
+mysql:9.3.0
+mysql:8.4.5
+postgres:17.5-alpine
+postgres:17.5
+TAG=4.1.0-management-alpine
+TAG=4.1.0-management
