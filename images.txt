@@ -1,4 +1,2 @@
-stilleshan/frps:0.62.1
-stilleshan/frpc:0.62.1
-stilleshan/frps:0.62.1-alpine
-stilleshan/frpc:0.62.1-alpine
+snowdreamtech/frps:0.62.1-alpine
+snowdreamtech/frpc:0.62.1-alpine
