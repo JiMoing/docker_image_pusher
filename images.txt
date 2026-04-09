@@ -1,1 +1,1 @@
-docker.io/library/almalinux:9
+ghcr.io/metacubex/mihomo:latest
