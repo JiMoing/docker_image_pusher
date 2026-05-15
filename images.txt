@@ -1,3 +1,2 @@
-metacubex/mihomo:latest
-metacubex/mihomo:Alpha
-ghcr.io/metacubex/metacubexd:latest
+snowdreamtech/frps:0.68.1
+snowdreamtech/frpc:0.68.1
