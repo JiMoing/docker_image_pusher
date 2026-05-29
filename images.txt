@@ -1,2 +1,1 @@
-snowdreamtech/frps:0.68.1
-snowdreamtech/frpc:0.68.1
+nvidia/cuda:12.6.0-base-ubuntu22.04
