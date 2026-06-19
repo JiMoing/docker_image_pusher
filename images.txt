@@ -1,2 +1,1 @@
-metacubex/mihomo:Alpha
-ghcr.io/metacubex/metacubexd:latest
+zingerbee/serverbee-web:latest
