@@ -1,6 +1,3 @@
-eclipse-temurin:8u492-b09-jdk
-eclipse-temurin:11.0.31_11-jdk
-eclipse-temurin:17.0.19_10-jdk
-eclipse-temurin:21.0.11_10-jdk
-eclipse-temurin:25.0.3_9-jdk
-eclipse-temurin:26.0.1_8-jdk
+ubuntu/jdk:17-24.04_stable
+ubuntu/jdk:21-24.04_stable
+ubuntu/jdk:25-26.04_stable
