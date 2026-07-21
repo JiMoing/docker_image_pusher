@@ -1,2 +1,4 @@
-amazoncorretto:8u492
-amazoncorretto:8u492-alpine3.24
+amazoncorretto:17.0.19
+amazoncorretto:17.0.19-alpine3.24
+amazoncorretto:21.0.11
+amazoncorretto:21.0.11-alpine3.24
