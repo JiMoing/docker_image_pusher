@@ -1,1 +1,6 @@
-jeessy/ddns-go:v6.17.2
+nginx:1.31.3
+nginx:1.31.3-alpine
+jenkins:2.60.3
+jenkins:2.60.3-alpine
+kibana:9.4.3
+kibana:8.19.18
