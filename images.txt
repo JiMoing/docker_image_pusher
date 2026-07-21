@@ -1,4 +1,3 @@
-openwebui/open-webui:0.10.2
-openwebui/open-webui:0.10.2-ollama
-openwebui/open-webui:0.10.2-cuda
-openwebui/open-webui:0.10.2-slim
+adoptopenjdk:openj9
+almalinux:10-kitten
+nvidia/cuda:13.3.0-base-ubuntu24.04
