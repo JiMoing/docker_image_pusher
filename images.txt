@@ -1,3 +1,1 @@
-ollama/ollama:0.32.1
-infiniflow/ragflow:v0.26.4
-universonic/stable-diffusion-webui:full
+lejianwen/rustdesk-server-s6:v0.1.2
